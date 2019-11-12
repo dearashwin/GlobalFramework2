@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GlobalAutoFramework>
+  <RunSettings>
+    <AUT>http://newtours.demoaut.com/</AUT>
+    <!-- Possible flag Chrome,Firefox, IE-->
+    <Browser>Chrome</Browser>
+    <!-- Possible flag Smoke, Regression, Unit  -->
+    <TestType>SmokeTest</TestType>
+    <!-- Possible Flag Y, N -->
+    <IsLog>Y</IsLog>
+    <IsReport>N</IsReport>
+    <LogPath>C:\\VS\\TestAutomation\\Log\\</LogPath>
+    <BuildName>DemoBuild</BuildName>
+    <UserName>AutoTeam</UserName>
+    <!-- Possible flag Windows, Web, WPF  -->
+    <Technology>Selenium</Technology>
+    <ApplicationDb>Data Source=DESKTOP-6H7284L;Initial Catalog=EmployeeDB;Integrated Security=True</ApplicationDb>
+  </RunSettings>
+</GlobalAutoFramework>

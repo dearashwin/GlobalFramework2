@@ -1,0 +1,8 @@
+Selenium.Webdrive
+selenium.support - for POM
+ExcelDataReader
+ExcelDataReader.DataSet
+ICSharpCode.SharpZiplib
+Selenium.Chrome.Webdriver
+
+install-package 
